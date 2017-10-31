@@ -1,0 +1,78 @@
+body {
+    background-color: lightblue;
+    }
+
+/*added a background color because I wanted to change my text to light colors such as white and pink */
+
+.coolfont {
+        font-family: verdana;
+      }
+
+        .coolsize{
+          font-size: 60px;
+    }
+
+h2 {
+  text-transform: uppercase;
+    }
+
+.tomato{
+  color: orange
+}
+
+.whitePara {color:white}
+
+.shout{text-transform: uppercase;}
+
+.bestofboth {
+  font-size: 60px;
+  color:beige;
+}
+
+h2, h3, h4{
+  color: yellow
+}
+
+div p { font-weight: bold; }
+
+div.absolute{
+position: absolute;
+top: 770px;
+width: 300px;
+height: 30px;
+}
+
+div.fixed{
+  position: fixed;
+  width: 230px;
+  left: 900px;
+  top: 20px;
+  border: 3px solid pink;
+}
+
+div.relative{
+  position: relative;
+  left: 150px;
+  top: 10px;
+}
+
+
+
+
+#test{
+  width:400px;
+  Height: 200px;
+}
+
+#cool{
+  width: 500px;
+  font: 30px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.box{
+  margin: 30px 20% 30px 20%;
+  border: black 5px dotted;
+  padding: 100px 5% 100px 5%
+}
