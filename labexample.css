@@ -1,0 +1,31 @@
+.box1{
+    border-style:dotted;
+    margin: 50px;
+    height:200px;
+    color: purple;
+}
+
+.text {
+  border: 100px dotted white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.hello{
+  font-size: 40px
+}
+
+.redTxt{
+  color:red;
+}
+
+.small{
+  text-align: center;
+color: green;
+font-size: 10px;
+}
+
+.far{
+  text-align: right;
+  color: purple
+}
